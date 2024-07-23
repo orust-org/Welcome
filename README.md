@@ -2,7 +2,7 @@
 # Welcome to the Orust organization's respository
 ## FutureTech Innovators
 
-##### Welcome to Codgen! We are a thriving community of tech enthusiasts and software developers dedicated to exploring and advancing the forefront of technology.
+##### Welcome to the orust-org! We are a thriving community of tech enthusiasts and software developers dedicated to exploring and advancing the forefront of technology.
 
 ## Mission
 
@@ -14,7 +14,7 @@
 
 ## What We Do
 
-##### At Codgen, we:
+##### At orust-org, we:
 
 1. Collaborate on Open-Source Projects: Work together on innovative projects that push the boundaries of technology.
 2. Host Coding Challenges and Hackathons: Participate in events designed to challenge and expand your skills.
