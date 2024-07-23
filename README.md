@@ -1,8 +1,8 @@
-![Auto Assign](https://github.com/Codgen-Community/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+![Auto Assign](https://github.com/orust-Community/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
 
-![Proof HTML](https://github.com/Codgen-Community/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+![Proof HTML](https://github.com/orust-Community/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
-# Welcome to the Codgen organization's respository
+# Welcome to the Orust organization's respository
 ## FutureTech Innovators
 
 ##### Welcome to Codgen! We are a thriving community of tech enthusiasts and software developers dedicated to exploring and advancing the forefront of technology.
