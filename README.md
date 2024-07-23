@@ -1,6 +1,3 @@
-![Auto Assign](https://github.com/orust-Community/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
-
-![Proof HTML](https://github.com/orust-Community/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
 # Welcome to the Orust organization's respository
 ## FutureTech Innovators
